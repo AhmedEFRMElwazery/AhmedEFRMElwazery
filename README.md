@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I am a Water Engineer 🌊 who developed a passion for software development 💻
 
-I am proficient in HTML, CSS, JavaScript, and Python 😎  and currently learning Golang 👓
+I am proficient in HTML, CSS, JavaScript, and Python 😎  and currently learning Golang 🧠
 
-I am open to collaboration on software projects, in particular to those pertaining to water 💧 agriculture 🌾 and the environment 🍀 and the cross-section between two or more of them.
+I am open to collaborate on software projects, in particular those pertaining to water 💧 agriculture 🌾 and the environment 🍀 and the cross-section between two or more of them.
 
 💾 I am currently developing my own personal projects on those aforementioned themes as well.
 
