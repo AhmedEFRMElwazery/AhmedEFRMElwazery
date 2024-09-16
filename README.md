@@ -29,4 +29,10 @@ Feel free to reach out and ask 💬 about anything that has to do with those abo
 
 ✨ Have a marvelous day ✨ 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,threejs,nodejs,ts,python,go,postgres,mongodb,sqlite,flask,django,linux,git,vscode" />
+  </a>
+</p>
+
 
